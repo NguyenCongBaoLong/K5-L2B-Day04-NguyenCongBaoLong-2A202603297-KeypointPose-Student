@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202603297",
+ "ten": "NguyenCongBaoLong",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "blong",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000021235.jpg",
+  "000000162046.jpg",
+  "000000451084.jpg",
+  "000000508269.jpg",
+  "000000564304.jpg",
+  "000000157271.jpg",
+  "000000189365.jpg",
+  "000000193879.jpg",
+  "000000311300.jpg",
+  "000000351176.jpg",
+  "000000269462.jpg",
+  "000000522889.jpg"
+ ],
+ "faces": [
+  "face_10579.jpg",
+  "face_141135.jpg",
+  "face_362568.jpg",
+  "face_105668.jpg",
+  "face_53580.jpg",
+  "face_143959.jpg",
+  "face_255797.jpg",
+  "face_560282.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 5,
+   "job_id": 5,
+   "task_name": "persons-NguyenCongBaoLong"
+  },
+  "faces": {
+   "task_id": 6,
+   "job_id": 6,
+   "task_name": "faces-NguyenCongBaoLong"
+  }
+ }
+}
